@@ -40,5 +40,5 @@ The analysis of the election show that:
 
 ## Challenge Notes
 The county turnout requirement is not really clear. Without knowing the county total populations, the following cannot be determined:
-	- At first reading, I initially thought I was supposed to find out how many people chose not to vote. 
-	- Which counties have the most population vs which county had the most active voters
+- At first reading, I initially thought I was supposed to find out how many people chose not to vote. 
+- Did Denver have the most active voters or simply had a higher population than the other two counties?
